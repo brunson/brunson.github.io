@@ -1,0 +1,103 @@
+/* #353551 background */
+/* #8B8B98 body */
+/* #757580 dark */
+/* #AFAFBF light */
+
+body {
+  background: #8b8b98;
+  background-image: url(cubebg.png);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Trebuchet MS", Verdana, Arial, sans-serif;
+  font-size: small;
+}
+
+a:link {color: #000066; text-decoration: none;}
+a:visited {color: #000066; text-decoration: none;}
+a:hover {color: #AFAFBF; text-decoration: underline;}
+a:focus {color: #AFAFBF; text-decoration: underline;}
+a:active {color: #AFAFBF; text-decoration: underline;}
+
+h1 {
+  font-weight: bold;
+  font-size: large;
+  font-variant: small-caps;
+}
+h2 {
+  font-weight: bold;
+  font-size: small;
+  font-variant: small-caps;
+}
+p {font-size: small;}
+
+hr {
+  border-top: 1px dashed #000000;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  width: 60%;
+}
+
+table.main {
+  border-width: 0px;
+  border-spacing: 0px;
+}
+table.main th {
+  border-width: 0px;
+  border-spacing: 0px;
+  padding: 0px;
+}
+table.main td {
+  border-width: 0px;
+  border-spacing: 0px;
+  padding: 0px;
+}
+
+#navbar {
+  background-color: #757580;
+  width: 140px;
+  vertical-align: top;
+  font-size: small;
+  padding: 10px;
+}
+
+#content {
+  background-color: #8b8b98;
+  background-image: url(cubebg.png);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  vertical-align: top;
+  width:640px;
+}
+
+table.algs {
+  border-width: 1px;
+  border-color: #000000;
+  border-style: solid;
+  border-spacing: 0px;
+  border-collapse: collapse;
+  font-size: small;
+}
+table.algs th {
+  border-width: 1px;
+  border-color: #000000;
+  border-style: solid;
+  background-color: #757580;
+  padding: 5px;
+}
+table.algs td {
+  border-width: 1px;
+  border-color: #000000;
+  border-style: solid;
+ /* background-color: #AFAFBF; */
+  padding: 5px;
+}
+
+table.clear {
+  border:0px hidden #000000; border-spacing: 2px;
+  border-collapse: collapse;
+  font-size: small
+}
+
+}
