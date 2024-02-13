@@ -1,51 +1,68 @@
+==================================================================
 https://keybase.io/brunson
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of http://www.brunson.com
+  * I am an admin of https://www.brunson.com
   * I am brunson (https://keybase.io/brunson) on keybase.
-  * I have a public key ASC8V2TWN4rjVPneYeIcesmC1KoBch7P88vRJhfYwKgaBwo
+  * I have a public key with fingerprint 3BE3 0D17 C430 0F65 84FD  B373 34C4 9F78 E033 63EA
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "01011ec50c413f523242efefe67246f2c1cad82ec7776fef490c2f13ee0e6e6062080a",
-            "host": "keybase.io",
-            "kid": "0120bc5764d6378ae354f9de61e21c7ac982d4aa01721ecff3cbd12617d8c0a81a070a",
-            "uid": "c6996ebcad8e053b7d3e866c341c1419",
-            "username": "brunson"
-        },
-        "service": {
-            "hostname": "www.brunson.com",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0101057d01e570c1f1a3ca9ad07de440ccfc395ecca4102ea790f52e6c14a25c9bce0a",
+      "fingerprint": "3be30d17c4300f6584fdb37334c49f78e03363ea",
+      "host": "keybase.io",
+      "key_id": "34c49f78e03363ea",
+      "kid": "0101057d01e570c1f1a3ca9ad07de440ccfc395ecca4102ea790f52e6c14a25c9bce0a",
+      "uid": "c6996ebcad8e053b7d3e866c341c1419",
+      "username": "brunson"
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.16"
+    "service": {
+      "hostname": "www.brunson.com",
+      "protocol": "https:"
     },
-    "ctime": 1471026546,
-    "expire_in": 504576000,
-    "merkle_root": {
-        "ctime": 1471026490,
-        "hash": "036ccafa9ac3b97e1d05a4df1c989b62a7da5ff31e35470698715bfd2105e8fa75924844d49afc2547bafb142d993911402bbee8eff5561d3306c68583d09ffe",
-        "seqno": 573783
-    },
-    "prev": "3c874d7d621d6591a1640626bd4bf5bf22803d0808635411aa84612eb0fc057b",
-    "seqno": 10,
-    "tag": "signature"
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1707862022,
+  "expire_in": 157680000,
+  "prev": "30287a9c6f484b92a52ba8e52941662a6a3f342be1c832aa8072966b3ca72a45",
+  "seqno": 12,
+  "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvFdk1jeK41T53mHiHHrJgtSqAXIez/PL0SYX2MCoGgcKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMWVjNTBjNDEzZjUyMzI0MmVmZWZlNjcyNDZmMmMxY2FkODJlYzc3NzZmZWY0OTBjMmYxM2VlMGU2ZTYwNjIwODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmM1NzY0ZDYzNzhhZTM1NGY5ZGU2MWUyMWM3YWM5ODJkNGFhMDE3MjFlY2ZmM2NiZDEyNjE3ZDhjMGE4MWEwNzBhIiwidWlkIjoiYzY5OTZlYmNhZDhlMDUzYjdkM2U4NjZjMzQxYzE0MTkiLCJ1c2VybmFtZSI6ImJydW5zb24ifSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5icnVuc29uLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzEwMjY1NDYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MTAyNjQ5MCwiaGFzaCI6IjAzNmNjYWZhOWFjM2I5N2UxZDA1YTRkZjFjOTg5YjYyYTdkYTVmZjMxZTM1NDcwNjk4NzE1YmZkMjEwNWU4ZmE3NTkyNDg0NGQ0OWFmYzI1NDdiYWZiMTQyZDk5MzkxMTQwMmJiZWU4ZWZmNTU2MWQzMzA2YzY4NTgzZDA5ZmZlIiwic2Vxbm8iOjU3Mzc4M30sInByZXYiOiIzYzg3NGQ3ZDYyMWQ2NTkxYTE2NDA2MjZiZDRiZjViZjIyODAzZDA4MDg2MzU0MTFhYTg0NjEyZWIwZmMwNTdiIiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQOL/DT3jeFMIOoK0Q8uP1xlucKVhLV+Az/XwOowvrg8L0e8g2Dlt/rfgQ2fh64I7MGcEAOYYwMNtamHinwunZA6oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDD6VVObEJwlxunAknSuuCi07ODdXXRwCOhO4yC5pU/yKN0YWfNAgKndmVyc2lvbgE=
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSFRBGF41d0sIC8IsEOpQIWTLnJlzXbHLw4aQFBb20mWbM2eOHtf2
+rGePbmZm0MWi6IIhGvRgdlGSHjIMxCjD6LIa+lCgPSRIF3owyrTyUs0Re+uxmYdh
+/vku//8xvYtTPGlJN4ZnzoSz2uqSEj1XKjw08dFbzWmWXsUFqrkwnTtomU5jTihs
+6lyAAzzboqwDnooyILzBY0SwinUg61QQACEGQapICcECDyDFsgoMEVKJ8AKGIlE1
+QgHmcjjDjBRTO2qbEYfJIo0ioPMyERAAhiQqgqFrSEZIIIJqyAoFCEmIusQSK+Yy
+WHMajlG/abEau4Tm2vsH/j/3XTEnRyRVlahGsM6sRKTJOqKKJBEk8IzAqy4wRu0I
+PkgZWrMrIjErwtXkcKxYaRLq5uoOMg+Ix+P+eZCfWAcZO2pbjkWsMvZY4jjRWMAl
+O1XROTTVQvM6Ic2M6CxJxqikdsxkJgGeIYljusK8DGRFggDCHI4eipo2DZkuQpQl
+BbDl+tBKNzcAFRmrRDIERdBUiEWoYYWKUBV4SYJYwshAAtQoTxQEMVaADFVJ0liG
+MsSCyLmTlUcsps2sHFzMNGNmcQQ7FTblah4/2rvAk5Tm8aYmu1/Mk7Zoyd+PtyXT
+N5tx/mhzco0D7paee9OZnHr/xehEP/6yddclzy/YVZ030NOWdWdyz1DwU22PmJs9
+zJWtODLZ1Gm+btp8avT62vRQqz/91YWMxd7+jvaw50NlONosjb7Nb6792ljatbP8
+rO9qYixp1Zu+0MNg0belvgm8t0S5vb/1Zl9+K/zJTW+qKp0d7PZmXNtXm5fyPDcL
+ZZ6uO2D/7i64t6Yhqz44cPz9Ql9T4bqhIn/NtpXH4oPtuYnD+slNQ5/F4cS7J+NT
+4sju9Td28HVPL45N/iiMPh+pnskMtDwLNmwYb/Vp39P2BS7PenvHprrj/Mve1Y0D
+09n6xhf1yzoeBLcvrz0x0lJw6w/BVkfH
+=hUwu
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/brunson
+
+==================================================================
